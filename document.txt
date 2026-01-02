@@ -49,4 +49,6 @@ docker run -d \
   --network voting-app \
   voting-app-worker
 
+#docker compose
+docker compose up -d
 
